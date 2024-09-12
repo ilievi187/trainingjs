@@ -1,0 +1,10 @@
+function salary (input){
+
+}
+
+
+
+
+
+
+salary ();
